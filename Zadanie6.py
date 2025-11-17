@@ -1,8 +1,6 @@
 # Zadanie 6
 
 litera = str(input("litera: "))
-# if litera == :
-
 
 if litera.islower():
     print("Mała")
